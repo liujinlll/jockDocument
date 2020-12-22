@@ -3,4 +3,5 @@
 
 
 ### designModel -> 设计模式
+### trimGame -> 游戏
 ***
